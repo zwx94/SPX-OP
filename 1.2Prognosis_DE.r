@@ -1,6 +1,6 @@
 rm(list = ls())
 
-setwd('/home/zhangwenxiang/workspace/python/UKB/OS/v13_prognosis')
+setwd('/***/v13_prognosis')
 
 df_balanced <- read.csv('./data/df_balanced.csv')
 
